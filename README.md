@@ -1,4 +1,4 @@
-# 🧰 Proyecto: proyectofinalPNET 
+# 🧰 Proyecto: Gestión lógica Taller Mecanico 
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-Jonaaxsic-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonaaxsic)
 
@@ -7,12 +7,12 @@
 
 ## 🧾 Descripción  
 
-**proyectofinalPNET** es una aplicación de escritorio desarrollada en **VB.NET (Windows Forms)** para la **gestión de operaciones de taller**, incluyendo:  
-- Clientes  
-- Técnicos  
-- Repuestos  
-- Siniestros  
-- Órdenes de trabajo  
+Este Proyecto es  una aplicación de escritorio desarrollada en **VB.NET (Windows Forms)** para la **gestión de operaciones de un  taller mecánico** el cual incluye su DataBase y el control y gestión de servicios como :
+- Crear usuarios
+- Venta de Repuestos
+- Mantener stock de los repuestos 
+- Gestión de informes por catástrofes 
+- otros servicios 
 
 El sistema cuenta con una interfaz intuitiva que facilita la administración de recursos y actividades internas.  
 Este repositorio incluye:  
@@ -32,9 +32,3 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 - 🌐 **phpMyAdmin** *(opcional, también puede usarse Docker)*  
 
 
-
-## 🚀 Construcción y ejecución  
-
-1. Clona este repositorio:  
-   ```bash
-   git clone https://github.com/gegc1379/proyectofinalPNET.git
